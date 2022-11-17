@@ -32,6 +32,5 @@ Si estrae randomicamente un film
 Riccardo apre sulla propria tv l'applicazione di Netflix
     Se Netflix/internet non funziona:
         Spegni la TV e Apri un gioco da tavolo
-        
     ALTRIMENTI:
         Si guarda quel film su Netflix
